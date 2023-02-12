@@ -1,4 +1,4 @@
-- 👋 Olá, Sou @gesse-fernandes Programador FullStack- Foco em inovação e tecnologia.
+- 👋 Olá, Sou @gesse-fernandes Programador FullStack- Foco em Inovação e Tecnologia.
 - 👀 Programdor em Dart FrameWok(flutter) 
 - 🌱 Programador Back-end Php,Python Tecnologias de FrameWok (Laravel e Flask)  .
 - 💞️ Programador de Front-End em Javascript Tecnologias de FrameWok (VueJs e ReactJx)
