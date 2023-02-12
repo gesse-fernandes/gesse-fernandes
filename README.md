@@ -1,4 +1,4 @@
-- 👋 olá, Sou @gesse-fernandes Programador FullStack- Socio Fundador da Startup IntelSust
+- 👋 Olá, Sou @gesse-fernandes Programador FullStack- Foco em inovação e tecnologia.
 - 👀 Programdor em Dart FrameWok(flutter) 
 - 🌱 Programador Back-end Php,Python Tecnologias de FrameWok (Laravel e Flask)  .
 - 💞️ Programador de Front-End em Javascript Tecnologias de FrameWok (VueJs e ReactJx)
