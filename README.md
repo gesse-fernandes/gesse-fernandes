@@ -7,4 +7,10 @@
 - 💞️ Programador de Front-End em Javascript Tecnologias de FrameWork (VueJs e ReactJx)
 </pre>
 
+# dados Github
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gesse-fernandes)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gesse-fernandes)](https://github.com/anuraghazra/github-readme-stats)
+
 
