@@ -17,7 +17,3 @@
 
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gesse-fernandes)](https://github.com/gesse-fernandes/github-readme-stats)
-
-
